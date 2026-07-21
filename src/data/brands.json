@@ -1,0 +1,131 @@
+[
+  {
+    "id": "brand-01",
+    "slug": "fujiaire",
+    "name": "FUJIAIRE",
+    "color": "#1B6CA8",
+    "imageUrl": "/images/brands/fujiaire.png"
+  },
+  {
+    "id": "brand-02",
+    "slug": "daikin",
+    "name": "DAIKIN",
+    "color": "#00A0E9",
+    "imageUrl": "/images/brands/daikin.png"
+  },
+  {
+    "id": "brand-03",
+    "slug": "haier",
+    "name": "Haier",
+    "color": "#0066B3",
+    "imageUrl": "/images/brands/haier.png"
+  },
+  {
+    "id": "brand-04",
+    "slug": "samsung",
+    "name": "SAMSUNG",
+    "color": "#1428A0",
+    "imageUrl": "/images/brands/samsung.png"
+  },
+  {
+    "id": "brand-05",
+    "slug": "cotto",
+    "name": "COTTO",
+    "color": "#E30613",
+    "imageUrl": "/images/brands/cotto.png"
+  },
+  {
+    "id": "brand-06",
+    "slug": "karat",
+    "name": "KARAT",
+    "color": "#8A6D3B",
+    "imageUrl": "/images/brands/karat.png"
+  },
+  {
+    "id": "brand-07",
+    "slug": "rinnai",
+    "name": "Rinnai",
+    "color": "#C8102E",
+    "imageUrl": "/images/brands/rinnai.png"
+  },
+  {
+    "id": "brand-08",
+    "slug": "scg",
+    "name": "SCG",
+    "color": "#ED1C24",
+    "imageUrl": "/images/brands/scg.png"
+  },
+  {
+    "id": "brand-09",
+    "slug": "shera",
+    "name": "SHERA",
+    "color": "#00843D",
+    "imageUrl": "/images/brands/shera.png"
+  },
+  {
+    "id": "brand-10",
+    "slug": "upg",
+    "name": "UPG",
+    "color": "#004B87",
+    "imageUrl": "/images/brands/upg.png"
+  },
+  {
+    "id": "brand-11",
+    "slug": "dulux",
+    "name": "Dulux",
+    "color": "#003DA5",
+    "imageUrl": "/images/brands/dulux.png"
+  },
+  {
+    "id": "brand-12",
+    "slug": "jotun",
+    "name": "JOTUN",
+    "color": "#F0A500",
+    "imageUrl": "/images/brands/jotun.png"
+  },
+  {
+    "id": "brand-13",
+    "slug": "boda",
+    "name": "BODA",
+    "color": "#D22B2B",
+    "imageUrl": "/images/brands/boda.png"
+  },
+  {
+    "id": "brand-14",
+    "slug": "karcher",
+    "name": "KÄRCHER",
+    "color": "#FFD500",
+    "imageUrl": "/images/brands/karcher.png"
+  },
+  {
+    "id": "brand-15",
+    "slug": "engenius",
+    "name": "EnGenius",
+    "color": "#5B87C5",
+    "imageUrl": "/images/brands/engenius.png"
+  },
+  {
+    "id": "brand-16",
+    "slug": "nippon-paint",
+    "name": "Nippon Paint",
+    "color": "#E4002B"
+  },
+  {
+    "id": "brand-17",
+    "slug": "toa",
+    "name": "TOA",
+    "color": "#E4002B"
+  },
+  {
+    "id": "brand-18",
+    "slug": "orchid",
+    "name": "Orchid",
+    "color": "#00843D"
+  },
+  {
+    "id": "brand-19",
+    "slug": "rhinoz",
+    "name": "RHINOZ",
+    "color": "#1B2A4A"
+  }
+]

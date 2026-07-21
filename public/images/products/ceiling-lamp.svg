@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#FFFFFF"/>
+  <g fill="none" stroke="#1B2A4A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="100" y1="30" x2="100" y2="60"/>
+    <path d="M55 100 A45 45 0 0 1 145 100 Z"/>
+    <line x1="45" y1="100" x2="155" y2="100"/>
+    <circle cx="100" cy="112" r="8" fill="#F04E23" stroke="none"/>
+    <line x1="70" y1="128" x2="64" y2="142" stroke="#5B87C5"/>
+    <line x1="100" y1="132" x2="100" y2="148" stroke="#5B87C5"/>
+    <line x1="130" y1="128" x2="136" y2="142" stroke="#5B87C5"/>
+  </g>
+  <text x="100" y="188" font-family="Arial, sans-serif" font-size="11" fill="#1B2A4A" text-anchor="middle">CEILING LAMP</text>
+</svg>

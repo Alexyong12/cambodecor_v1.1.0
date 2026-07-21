@@ -1,0 +1,690 @@
+[
+  {
+    "id": "cat-01",
+    "slug": "furniture-home-decor",
+    "name": "Furniture & Home Decor",
+    "nameKm": "គ្រឿងសង្ហារឹម",
+    "icon": "armchair",
+    "subCategories": [
+      {
+        "id": "sub-01-1",
+        "slug": "sofa",
+        "name": "Sofa",
+        "icon": "sofa"
+      },
+      {
+        "id": "sub-01-2",
+        "slug": "office-chair",
+        "name": "Office Chair",
+        "icon": "armchair"
+      },
+      {
+        "id": "sub-01-3",
+        "slug": "other",
+        "name": "Other",
+        "icon": "layout-grid"
+      }
+    ],
+    "imageUrl": "/images/categories/furniture-home-decor.png",
+    "bannerUrl": "/images/banners/promo-chairs.png"
+  },
+  {
+    "id": "cat-02",
+    "slug": "tools-hardwares",
+    "name": "Tools & Hardwares",
+    "nameKm": "ឧបករណ៍",
+    "icon": "wrench",
+    "subCategories": [
+      {
+        "id": "sub-02-1",
+        "slug": "power-tools",
+        "name": "Power Tools",
+        "icon": "drill"
+      },
+      {
+        "id": "sub-02-2",
+        "slug": "hand-tools",
+        "name": "Hand Tools",
+        "icon": "hammer"
+      },
+      {
+        "id": "sub-02-3",
+        "slug": "other",
+        "name": "Other",
+        "icon": "layout-grid"
+      }
+    ],
+    "imageUrl": "/images/categories/tools-hardwares.png",
+    "bannerUrl": "/images/banners/store-24.png"
+  },
+  {
+    "id": "cat-03",
+    "slug": "bathroom",
+    "name": "Bathroom",
+    "nameKm": "បន្ទប់ទឹក",
+    "icon": "shower-head",
+    "subCategories": [
+      {
+        "id": "sub-03-1",
+        "slug": "water-heater",
+        "name": "Water Heater",
+        "icon": "heater"
+      },
+      {
+        "id": "sub-03-2",
+        "slug": "mirror",
+        "name": "Mirror",
+        "icon": "square"
+      },
+      {
+        "id": "sub-03-3",
+        "slug": "other",
+        "name": "Other",
+        "icon": "layout-grid"
+      }
+    ],
+    "imageUrl": "/images/categories/bathroom.png",
+    "bannerUrl": "/images/banners/room-bathroom.png"
+  },
+  {
+    "id": "cat-04",
+    "slug": "lamps-light-blubs",
+    "name": "Lamps & Light Blubs",
+    "nameKm": "អំពូលភ្លើង",
+    "icon": "lamp",
+    "subCategories": [
+      {
+        "id": "sub-04-1",
+        "slug": "ceiling",
+        "name": "Ceiling",
+        "icon": "lamp-ceiling"
+      },
+      {
+        "id": "sub-04-2",
+        "slug": "desk",
+        "name": "Desk",
+        "icon": "lamp-desk"
+      },
+      {
+        "id": "sub-04-3",
+        "slug": "other",
+        "name": "Other",
+        "icon": "layout-grid"
+      }
+    ],
+    "imageUrl": "/images/categories/lamps-light-blubs.png",
+    "bannerUrl": "/images/banners/wall-indoor.png"
+  },
+  {
+    "id": "cat-05",
+    "slug": "doors-windows",
+    "name": "Doors & Windows",
+    "nameKm": "ទ្វារ និងបង្អួច",
+    "icon": "door-open",
+    "subCategories": [
+      {
+        "id": "sub-05-1",
+        "slug": "doors",
+        "name": "Doors",
+        "icon": "door-closed"
+      },
+      {
+        "id": "sub-05-2",
+        "slug": "windows",
+        "name": "Windows",
+        "icon": "app-window"
+      },
+      {
+        "id": "sub-05-3",
+        "slug": "other",
+        "name": "Other",
+        "icon": "layout-grid"
+      }
+    ],
+    "imageUrl": "/images/categories/doors-windows.png",
+    "bannerUrl": "/images/banners/wall-outdoor.png"
+  },
+  {
+    "id": "cat-06",
+    "slug": "paint-construction",
+    "name": "Paint & Construction",
+    "nameKm": "ថ្នាំលាប និងសំណង់",
+    "icon": "paint-roller",
+    "subCategories": [
+      {
+        "id": "sub-06-1",
+        "slug": "paint",
+        "name": "Paint",
+        "icon": "paint-bucket",
+        "bannerUrl": "/images/banners/paint.png",
+        "brands": [
+          "nippon-paint",
+          "jotun",
+          "orchid",
+          "dulux",
+          "toa"
+        ]
+      },
+      {
+        "id": "sub-06-2",
+        "slug": "decor-paint",
+        "name": "Decor Paint",
+        "icon": "paintbrush",
+        "bannerUrl": "/images/banners/decor-paint.png",
+        "brands": [
+          "rhinoz",
+          "toa",
+          "nippon-paint"
+        ]
+      },
+      {
+        "id": "sub-06-3",
+        "slug": "metal-paint-spray",
+        "name": "Metal Paint & Spray",
+        "icon": "spray-can",
+        "bannerUrl": "/images/banners/metal-paint.png",
+        "brands": [
+          "nippon-paint",
+          "toa",
+          "dulux"
+        ]
+      },
+      {
+        "id": "sub-06-4",
+        "slug": "wood-paint-spray",
+        "name": "Wood Paint & Spray",
+        "icon": "tree-pine",
+        "bannerUrl": "/images/banners/metal-paint.png"
+      },
+      {
+        "id": "sub-06-5",
+        "slug": "other",
+        "name": "Other",
+        "icon": "layout-grid"
+      }
+    ],
+    "bannerUrl": "/images/banners/paint-construction.png",
+    "imageUrl": "/images/categories/paint-construction.png"
+  },
+  {
+    "id": "cat-07",
+    "slug": "kitchen",
+    "name": "Kitchen",
+    "nameKm": "ផ្ទះបាយ",
+    "icon": "cooking-pot",
+    "subCategories": [
+      {
+        "id": "sub-07-1",
+        "slug": "microwave-oven",
+        "name": "Microwave & Oven",
+        "icon": "microwave"
+      },
+      {
+        "id": "sub-07-2",
+        "slug": "rice-cooker",
+        "name": "Rice Cooker",
+        "icon": "cooking-pot"
+      },
+      {
+        "id": "sub-07-3",
+        "slug": "electric-kettle",
+        "name": "Electric Kettle",
+        "icon": "coffee"
+      },
+      {
+        "id": "sub-07-4",
+        "slug": "tableware",
+        "name": "Tableware",
+        "icon": "utensils",
+        "bannerUrl": "/images/banners/tableware.png",
+        "children": [
+          {
+            "id": "t-tw-1",
+            "slug": "plate",
+            "name": "Plate",
+            "icon": "square"
+          },
+          {
+            "id": "t-tw-2",
+            "slug": "spoon",
+            "name": "Spoon",
+            "icon": "utensils"
+          },
+          {
+            "id": "t-tw-3",
+            "slug": "forks",
+            "name": "Forks",
+            "icon": "utensils"
+          },
+          {
+            "id": "t-tw-4",
+            "slug": "steak-knife",
+            "name": "Steak Knife",
+            "icon": "utensils-crossed"
+          },
+          {
+            "id": "t-tw-5",
+            "slug": "chopsticks",
+            "name": "Chopsticks",
+            "icon": "utensils"
+          },
+          {
+            "id": "t-tw-6",
+            "slug": "sets",
+            "name": "Sets",
+            "icon": "package"
+          },
+          {
+            "id": "t-tw-7",
+            "slug": "other",
+            "name": "Other",
+            "icon": "layout-grid"
+          }
+        ]
+      },
+      {
+        "id": "sub-07-5",
+        "slug": "spatula-ladle",
+        "name": "Spatula and Ladle",
+        "icon": "utensils-crossed",
+        "bannerUrl": "/images/banners/spatula-ladle.png",
+        "children": [
+          {
+            "id": "t-sl-1",
+            "slug": "spatula",
+            "name": "Spatula",
+            "icon": "utensils"
+          },
+          {
+            "id": "t-sl-2",
+            "slug": "ladle",
+            "name": "Ladle",
+            "icon": "utensils"
+          }
+        ]
+      },
+      {
+        "id": "sub-07-6",
+        "slug": "storage-containers",
+        "name": "Storage Containers",
+        "icon": "package",
+        "bannerUrl": "/images/banners/storage-containers.png"
+      },
+      {
+        "id": "sub-07-7",
+        "slug": "other",
+        "name": "Other",
+        "icon": "layout-grid"
+      }
+    ],
+    "bannerUrl": "/images/banners/kitchen.png",
+    "imageUrl": "/images/categories/kitchen.png"
+  },
+  {
+    "id": "cat-08",
+    "slug": "floor-walls",
+    "name": "Floor & Walls",
+    "nameKm": "កម្រាលឥដ្ឋ និងជញ្ជាំង",
+    "icon": "layout-panel-top",
+    "subCategories": [
+      {
+        "id": "sub-08-1",
+        "slug": "floor-option",
+        "name": "Floor Option",
+        "icon": "grid-3x3",
+        "bannerUrl": "/images/banners/wood-floors.png",
+        "children": [
+          {
+            "id": "t-fw-1",
+            "slug": "indoor",
+            "name": "Indoor",
+            "icon": "house"
+          },
+          {
+            "id": "t-fw-2",
+            "slug": "outdoor",
+            "name": "Outdoor",
+            "icon": "sun"
+          },
+          {
+            "id": "t-fw-3",
+            "slug": "other",
+            "name": "Other",
+            "icon": "layout-grid"
+          }
+        ]
+      },
+      {
+        "id": "sub-08-2",
+        "slug": "wall-decor",
+        "name": "Wall Decor",
+        "icon": "wallpaper",
+        "bannerUrl": "/images/banners/wall-indoor.png",
+        "children": [
+          {
+            "id": "t-wd-1",
+            "slug": "wall-tiles",
+            "name": "Wall Tiles",
+            "icon": "grid-3x3"
+          },
+          {
+            "id": "t-wd-2",
+            "slug": "wallpaper",
+            "name": "Wallpaper",
+            "icon": "wallpaper"
+          },
+          {
+            "id": "t-wd-3",
+            "slug": "cement-board",
+            "name": "Cement Board",
+            "icon": "square"
+          },
+          {
+            "id": "t-wd-4",
+            "slug": "natural-stone",
+            "name": "Natural Stone",
+            "icon": "cuboid"
+          },
+          {
+            "id": "t-wd-5",
+            "slug": "pvc",
+            "name": "PVC",
+            "icon": "layout-panel-top"
+          },
+          {
+            "id": "t-wd-6",
+            "slug": "other",
+            "name": "Other",
+            "icon": "layout-grid"
+          }
+        ]
+      },
+      {
+        "id": "sub-08-3",
+        "slug": "other",
+        "name": "Other",
+        "icon": "layout-grid"
+      }
+    ],
+    "bannerUrl": "/images/banners/floor-wall.png",
+    "imageUrl": "/images/categories/floor-walls.png"
+  },
+  {
+    "id": "cat-09",
+    "slug": "electrical-security",
+    "name": "Electrical & Security",
+    "nameKm": "អគ្គិសនី និងសុវត្ថិភាព",
+    "icon": "plug-zap",
+    "subCategories": [
+      {
+        "id": "sub-09-1",
+        "slug": "cctv",
+        "name": "CCTV",
+        "icon": "cctv"
+      },
+      {
+        "id": "sub-09-2",
+        "slug": "wiring",
+        "name": "Wiring",
+        "icon": "cable"
+      },
+      {
+        "id": "sub-09-3",
+        "slug": "other",
+        "name": "Other",
+        "icon": "layout-grid"
+      }
+    ],
+    "imageUrl": "/images/categories/electrical-security.png",
+    "bannerUrl": "/images/banners/store-fujiaire.png"
+  },
+  {
+    "id": "cat-10",
+    "slug": "outdoors",
+    "name": "Outdoors",
+    "nameKm": "ខាងក្រៅ",
+    "icon": "sun",
+    "subCategories": [
+      {
+        "id": "sub-10-1",
+        "slug": "garden",
+        "name": "Garden",
+        "icon": "flower-2"
+      },
+      {
+        "id": "sub-10-2",
+        "slug": "patio",
+        "name": "Patio",
+        "icon": "umbrella"
+      },
+      {
+        "id": "sub-10-3",
+        "slug": "other",
+        "name": "Other",
+        "icon": "layout-grid"
+      }
+    ],
+    "imageUrl": "/images/categories/outdoors.png",
+    "bannerUrl": "/images/banners/wall-outdoor.png"
+  },
+  {
+    "id": "cat-11",
+    "slug": "bedroom",
+    "name": "Bedroom",
+    "nameKm": "បន្ទប់គេង",
+    "icon": "bed-double",
+    "subCategories": [
+      {
+        "id": "sub-11-1",
+        "slug": "beds",
+        "name": "Beds",
+        "icon": "bed"
+      },
+      {
+        "id": "sub-11-2",
+        "slug": "wardrobe",
+        "name": "Wardrobe",
+        "icon": "cuboid"
+      },
+      {
+        "id": "sub-11-3",
+        "slug": "other",
+        "name": "Other",
+        "icon": "layout-grid"
+      }
+    ],
+    "imageUrl": "/images/categories/bedroom.png",
+    "bannerUrl": "/images/banners/bedroom_clean.png"
+  },
+  {
+    "id": "cat-12",
+    "slug": "household-product",
+    "name": "Household Product",
+    "nameKm": "ផលិតផលប្រើប្រាស់ក្នុងផ្ទះ",
+    "icon": "spray-can",
+    "subCategories": [
+      {
+        "id": "sub-12-1",
+        "slug": "cleaning",
+        "name": "Cleaning",
+        "icon": "brush"
+      },
+      {
+        "id": "sub-12-2",
+        "slug": "laundry",
+        "name": "Laundry",
+        "icon": "shirt"
+      },
+      {
+        "id": "sub-12-3",
+        "slug": "other",
+        "name": "Other",
+        "icon": "layout-grid"
+      }
+    ],
+    "imageUrl": "/images/categories/household-product.png",
+    "bannerUrl": "/images/banners/storage-containers.png"
+  },
+  {
+    "id": "cat-13",
+    "slug": "appliances",
+    "name": "Appliances",
+    "nameKm": "គ្រឿងអេឡិចត្រូនិច",
+    "icon": "washing-machine",
+    "subCategories": [
+      {
+        "id": "sub-13-1",
+        "slug": "fans",
+        "name": "Fans",
+        "icon": "fan"
+      },
+      {
+        "id": "sub-13-2",
+        "slug": "air-conditioner",
+        "name": "Air Conditioner",
+        "icon": "air-vent"
+      },
+      {
+        "id": "sub-13-3",
+        "slug": "refrigerator",
+        "name": "Refrigerator",
+        "icon": "refrigerator"
+      },
+      {
+        "id": "sub-13-4",
+        "slug": "other",
+        "name": "Other",
+        "icon": "layout-grid"
+      }
+    ],
+    "imageUrl": "/images/categories/appliances.png",
+    "bannerUrl": "/images/banners/store-fujiaire.png"
+  },
+  {
+    "id": "cat-14",
+    "slug": "tv-audio",
+    "name": "TV & Audio",
+    "nameKm": "ទូរទស្សន៍ និងសំឡេង",
+    "icon": "tv",
+    "subCategories": [
+      {
+        "id": "sub-14-1",
+        "slug": "tv",
+        "name": "TV",
+        "icon": "tv"
+      },
+      {
+        "id": "sub-14-2",
+        "slug": "speakers",
+        "name": "Speakers",
+        "icon": "speaker"
+      },
+      {
+        "id": "sub-14-3",
+        "slug": "other",
+        "name": "Other",
+        "icon": "layout-grid"
+      }
+    ],
+    "imageUrl": "/images/categories/tv-audio.png",
+    "bannerUrl": "/images/banners/room-living.png"
+  },
+  {
+    "id": "cat-15",
+    "slug": "hand-crafts",
+    "name": "Hand Crafts",
+    "nameKm": "សិប្បកម្ម",
+    "icon": "hand-metal",
+    "subCategories": [
+      {
+        "id": "sub-15-1",
+        "slug": "wood-craft",
+        "name": "Wood Craft",
+        "icon": "axe"
+      },
+      {
+        "id": "sub-15-2",
+        "slug": "other",
+        "name": "Other",
+        "icon": "layout-grid"
+      }
+    ],
+    "imageUrl": "/images/categories/hand-crafts.png",
+    "bannerUrl": "/images/banners/wall-indoor.png"
+  },
+  {
+    "id": "cat-16",
+    "slug": "sports",
+    "name": "Sports",
+    "nameKm": "កីឡា",
+    "icon": "dumbbell",
+    "subCategories": [
+      {
+        "id": "sub-16-1",
+        "slug": "gym",
+        "name": "Gym",
+        "icon": "dumbbell"
+      },
+      {
+        "id": "sub-16-2",
+        "slug": "other",
+        "name": "Other",
+        "icon": "layout-grid"
+      }
+    ],
+    "imageUrl": "/images/categories/sports.png",
+    "bannerUrl": "/images/banners/wall-outdoor.png"
+  },
+  {
+    "id": "cat-17",
+    "slug": "mom-baby",
+    "name": "Mom & Baby",
+    "nameKm": "ម្ដាយ និងទារក",
+    "icon": "baby",
+    "subCategories": [
+      {
+        "id": "sub-17-1",
+        "slug": "toys",
+        "name": "Toys",
+        "icon": "toy-brick"
+      },
+      {
+        "id": "sub-17-2",
+        "slug": "other",
+        "name": "Other",
+        "icon": "layout-grid"
+      }
+    ],
+    "imageUrl": "/images/categories/mom-baby.png",
+    "bannerUrl": "/images/banners/bedroom_clean.png"
+  },
+  {
+    "id": "cat-18",
+    "slug": "pet-food-supplies",
+    "name": "Pet Food & Supplies",
+    "nameKm": "អាហារ និងសម្ភារៈសត្វចិញ្ចឹម",
+    "icon": "paw-print",
+    "subCategories": [
+      {
+        "id": "sub-18-1",
+        "slug": "pet-food",
+        "name": "Pet Food",
+        "icon": "bone"
+      },
+      {
+        "id": "sub-18-2",
+        "slug": "pet-house",
+        "name": "Pet House",
+        "icon": "house"
+      },
+      {
+        "id": "sub-18-3",
+        "slug": "other",
+        "name": "Other",
+        "icon": "layout-grid"
+      }
+    ],
+    "imageUrl": "/images/categories/pet-food-supplies.png",
+    "bannerUrl": "/images/banners/wall-outdoor.png"
+  }
+]

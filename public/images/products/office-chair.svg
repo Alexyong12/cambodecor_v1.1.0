@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#FFFFFF"/>
+  <g fill="none" stroke="#1B2A4A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="70" y="35" width="60" height="55" rx="10"/>
+    <rect x="66" y="95" width="68" height="16" rx="6" fill="#F04E23" stroke="none"/>
+    <line x1="100" y1="111" x2="100" y2="140"/>
+    <path d="M70 155 L100 140 L130 155"/>
+    <circle cx="70" cy="160" r="5"/>
+    <circle cx="130" cy="160" r="5"/>
+    <circle cx="100" cy="164" r="5"/>
+  </g>
+  <text x="100" y="188" font-family="Arial, sans-serif" font-size="11" fill="#1B2A4A" text-anchor="middle">OFFICE CHAIR</text>
+</svg>

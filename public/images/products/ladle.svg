@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#FFFFFF"/>
+  <g fill="none" stroke="#1B2A4A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="120" y1="40" x2="90" y2="120"/><circle cx="80" cy="140" r="24"/>
+  </g>
+  <text x="100" y="188" font-family="Arial, sans-serif" font-size="11" fill="#1B2A4A" text-anchor="middle">SOUP LADLE</text>
+</svg>

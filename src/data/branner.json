@@ -1,0 +1,23 @@
+[
+  {
+    "id": "banner-01",
+    "imageUrl": "/images/banners/promo-chairs.png",
+    "alt": "Up to 30% off office chairs — comfort you deserve",
+    "href": "/categories/furniture-home-decor",
+    "categoryId": "cat-01"
+  },
+  {
+    "id": "banner-02",
+    "imageUrl": "/images/banners/paint-construction.png",
+    "alt": "Paint week — 25% off Jotun, Dulux, TOA and Nippon Paint",
+    "href": "/categories/paint-construction",
+    "categoryId": "cat-06"
+  },
+  {
+    "id": "banner-03",
+    "imageUrl": "/images/banners/store-fujiaire.png",
+    "alt": "New store — FUJIAIRE air conditioning with 5 years warranty",
+    "href": "/categories/appliances",
+    "categoryId": "cat-13"
+  }
+]

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#FFFFFF"/>
+  <g fill="none" stroke="#1B2A4A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="50" y="70" width="100" height="60" rx="4"/>
+    <line x1="50" y1="90" x2="150" y2="90" stroke-width="2"/><line x1="50" y1="110" x2="150" y2="110" stroke-width="2"/>
+    <line x1="100" y1="70" x2="100" y2="130" stroke-width="2"/>
+  </g>
+  <text x="100" y="188" font-family="Arial, sans-serif" font-size="11" fill="#1B2A4A" text-anchor="middle">DECK TILE WPC</text>
+</svg>
