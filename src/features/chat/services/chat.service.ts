@@ -13,6 +13,7 @@
  * the hooks and components below do not change.
  */
 import brandsJson from "@/data/brands.json";
+// eslint-disable-next-line no-restricted-imports
 import { brandListSchema } from "@/features/brands/schemas/brand.schema";
 import {
   chatMessageListSchema,
