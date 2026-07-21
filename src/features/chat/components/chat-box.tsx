@@ -1,5 +1,4 @@
 "use client";
-
 import Image from "next/image";
 import { ChevronLeft } from "lucide-react";
 import { Skeleton } from "@/components/ui/skeleton";
@@ -13,20 +12,17 @@ import { useRouter } from "next/navigation";
  * `onBack` is optional so it works both as a full page and inside a
  * two-pane desktop layout.
  */
-export function ChatBox({
-  threadId,
-}: {
-  threadId: string;
-}) {
+export function ChatBox({threadId,}: {threadId: string;}) {
+  
   const { data: thread, isPending: threadPending } = useThread(threadId);
   const { data: messages, isPending: messagesPending } = useMessages(threadId);
   const { mutate: send } = useSendMessage(threadId);
   const router = useRouter();
+
   return (
-    <div className="flex h-[100vh] flex-col overflow-hidden rounded-lg border bg-card md:h-[75vh]">
+    <div className="flex h-[90vh] flex-col overflow-hidden rounded-lg border bg-card md:h-[75vh]">
       {/* Header */}
       <div className="flex items-center gap-3 border-b bg-background p-3">
-      
           <button
             type="button"
             onClick={(() => router.back())}

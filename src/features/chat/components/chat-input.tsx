@@ -4,7 +4,6 @@ import { useState, type FormEvent } from "react";
 import { SendHorizonal } from "lucide-react";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
-
 /**
  * Message composer. Controlled locally; hands the trimmed text up via onSend
  * and clears itself. Enter submits (it's a real <form>), Shift is free for
